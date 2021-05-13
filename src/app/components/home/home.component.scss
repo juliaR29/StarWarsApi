@@ -1,0 +1,19 @@
+.cards {
+  max-width: 315px;
+  height: 415px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  margin-left: 18px;
+  cursor: pointer;
+  width: 100%;
+  align-items: center;
+}
+.mat-card-content{
+  height: 340px;
+}
+
+@media only screen and (max-device-width: 900px) {
+  .row{
+    width:100%;
+  }
+}

@@ -1,0 +1,11 @@
+
+.container{
+  background-color: rgb(31, 31, 133);
+  width: 100%;
+}
+
+@media screen and (max-widht: 700px){
+  .li > a{
+    font-size: small;
+  }
+}
